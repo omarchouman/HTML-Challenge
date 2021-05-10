@@ -6,7 +6,7 @@
   }
   
   body{
-    background-color:#212b2d;
+    background-color:#202020;
   }
   
   img {
@@ -23,6 +23,28 @@
     color:#fff;
   }
 
+  button {
+    padding:5px;
+  }
+  
+  
+  textarea {
+      width: 75%;
+      height: 300px;
+  }
+  
+  form {
+      width:50%;
+      margin-left:25%;
+      margin-top: 5%;
+      border: 10px rgb(47, 0, 255) solid;
+      padding: 5%;
+      color: #fff;
+  }
+  
+  footer {
+    text-align:center;
+  }
 /* General Styles */
   
   .menu {
@@ -107,28 +129,7 @@
     flex:1;
   }
   
-  button {
-    padding:5px;
-  }
   
-  
-  textarea {
-      width: 75%;
-      height: 300px;
-  }
-  
-  form {
-      width:50%;
-      margin-left:25%;
-      margin-top: 5%;
-      border: 10px rgb(47, 0, 255) solid;
-      padding: 5%;
-      color: #fff;
-  }
-  
-  footer {
-    text-align:center;
-  }
   
   
   
