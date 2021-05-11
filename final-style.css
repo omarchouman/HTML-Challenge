@@ -23,6 +23,15 @@
     color:#fff;
   }
 
+  hr {
+    width: 350px;
+  }
+
+  footer hr {
+    width:60%;
+    margin: auto;
+  }
+
   button {
     padding:5px;
   }
